@@ -1,0 +1,12 @@
+.navbar {
+  background: linear-gradient(to right, #1e3a8a, #3b82f6, #1e3a8a);
+  color: white;
+  padding: 1.5rem;
+  font-size: 2rem;
+  font-weight: 600;
+  text-align: center;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
