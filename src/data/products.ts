@@ -76,7 +76,7 @@ export const products: Product[] = [
     id: '9',
     name: 'Escorial Master Classic',
     price: 390999,
-    description: 'Gas 56cm Blanca',
+    description: '56cm Blanca',
     category: 'Cocinas',
     image: '/images/Cocinas/Escorial Master Blanca 56cm.webp',
   },
