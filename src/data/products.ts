@@ -67,7 +67,7 @@ export const products: Product[] = [
   {
     id: '8',
     name: 'Escorial Master Classic',
-    price: 889999,
+    price: 269999,
     description: 'Gas 56cm Negro',
     category: 'Cocinas',
     image: '/images/Cocinas/Cocina Gas Master 56 Negro.jpg',
